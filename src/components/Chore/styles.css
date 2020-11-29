@@ -1,0 +1,47 @@
+.chore {
+  flex: 1 1 270px;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background-color: #1e1e1e;
+  padding: 20px;
+  box-shadow: 2px 2px #000;
+}
+
+i.fa,
+i.fas {
+  font-size: 50px;
+}
+
+i.fa,
+i.fas,
+span {
+  user-select: none;
+  padding-bottom: 12px;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #a4a4a4;
+}
+
+input[type="checkbox"]:checked {
+  background-color: lightgreen;
+}
+
+input[type="checkbox"]:focus{
+  outline: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .chore {
+    flex: none;
+    width: 100%;
+  }
+}
