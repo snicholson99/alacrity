@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alacrity/static/css/main.9513ac30.chunk.css",
+    "main.js": "/alacrity/static/js/main.3071b526.chunk.js",
+    "main.js.map": "/alacrity/static/js/main.3071b526.chunk.js.map",
+    "runtime-main.js": "/alacrity/static/js/runtime-main.b5fa34e5.js",
+    "runtime-main.js.map": "/alacrity/static/js/runtime-main.b5fa34e5.js.map",
+    "static/js/2.8ba48937.chunk.js": "/alacrity/static/js/2.8ba48937.chunk.js",
+    "static/js/2.8ba48937.chunk.js.map": "/alacrity/static/js/2.8ba48937.chunk.js.map",
+    "static/js/3.2aaedeaf.chunk.js": "/alacrity/static/js/3.2aaedeaf.chunk.js",
+    "static/js/3.2aaedeaf.chunk.js.map": "/alacrity/static/js/3.2aaedeaf.chunk.js.map",
+    "index.html": "/alacrity/index.html",
+    "static/css/main.9513ac30.chunk.css.map": "/alacrity/static/css/main.9513ac30.chunk.css.map",
+    "static/js/2.8ba48937.chunk.js.LICENSE.txt": "/alacrity/static/js/2.8ba48937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5fa34e5.js",
+    "static/js/2.8ba48937.chunk.js",
+    "static/css/main.9513ac30.chunk.css",
+    "static/js/main.3071b526.chunk.js"
+  ]
+}
